@@ -1,0 +1,10 @@
+F:\Temp\NetTest\api\bin\Debug\netcoreapp2.0\api.deps.json
+F:\Temp\NetTest\api\bin\Debug\netcoreapp2.0\api.runtimeconfig.json
+F:\Temp\NetTest\api\bin\Debug\netcoreapp2.0\api.runtimeconfig.dev.json
+F:\Temp\NetTest\api\bin\Debug\netcoreapp2.0\api.dll
+F:\Temp\NetTest\api\bin\Debug\netcoreapp2.0\api.pdb
+F:\Temp\NetTest\api\obj\Debug\netcoreapp2.0\api.csproj.CoreCompileInputs.cache
+F:\Temp\NetTest\api\obj\Debug\netcoreapp2.0\api.AssemblyInfoInputs.cache
+F:\Temp\NetTest\api\obj\Debug\netcoreapp2.0\api.AssemblyInfo.cs
+F:\Temp\NetTest\api\obj\Debug\netcoreapp2.0\api.dll
+F:\Temp\NetTest\api\obj\Debug\netcoreapp2.0\api.pdb
